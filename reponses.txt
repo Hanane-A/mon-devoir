@@ -1,0 +1,7 @@
+a) La commande git pull permet de télécharger les nouvelles mise à jour depuis le server et de l'incorporé a notre branche directement alors que git fetch permet de telecharger uniquement les nouveautés.
+
+b)Pour annuler les modifications non validés on va utiliser la commande git reset --hard HEAD^
+
+c) Pour supprimer une branche distant dans git on utilise : git branch -d Nom_de_le_branche 
+
+d) Pour voir l'historique des modifications on ferra: git log
